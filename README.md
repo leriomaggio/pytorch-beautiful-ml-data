@@ -1,8 +1,9 @@
-# Beautiful (ML) Data: Patterns & Best Practice for effective Data solutions with PyTorch
+# Beautiful Data for Machine Learning
 
+## Patterns & Best Practice for effective Data solutions with PyTorch
+
+![pydata-logo](https://global.pydata.org/assets/images/pydata.png)
 This tutorial will be presented at [PyData Global 2020](https://global.pydata.org/) conference
-
-![](https://global.pydata.org/assets/images/pydata.png)
 
 ## Abstract
 
