@@ -1,5 +1,9 @@
 # Beautiful (ML) Data: Patterns & Best Practice for effective Data solutions with PyTorch
 
+This tutorial will be presented at [PyData Global 2020](https://global.pydata.org/) conference
+
+![](https://global.pydata.org/assets/images/pydata.png)
+
 ## Abstract
 
 Data is essential in Machine Learning, and PyTorch offers a very Pythonic solution to load complex and heterogeneous dataset.
@@ -37,7 +41,6 @@ in Machine and Deep learning with PyTorch.
     * Working with tiles and Patches
         * Patches in Batches for Spleen Segmentation
 
-
 ### Description
 
 Data processing is at the heart of every Machine Learning (ML) model _training&evaluation_ loop; and PyTorch has revolutionised the way in which data is managed.
@@ -60,3 +63,9 @@ _Off-the-shelf_ and/or _custom_ heterogeneuous datasets will be used to comply w
 
 Basic concepts of Machine/Deep learning Data processing are required to attend this tutorial. Similarly, proficiency with the Python language and
 the Python Object Model is also required. Basic knowledge of the PyTorch main features is preferable.
+
+#### Acknowledgments
+
+Public shout out to **all** [PyData Global](https://global.pydata.org/) organisers, 
+and to [Matthijs](https://github.com/MBrouns) in particular for his wonderful 
+support during the preparation of this tutorial!
