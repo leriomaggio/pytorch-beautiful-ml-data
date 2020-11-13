@@ -1,6 +1,16 @@
 # Spotligh rubbish
 .DS_Store
 
+#Ignoring Dataset folders to avoid accidental commits
+FER/
+FERVision/
+fer2013/
+sentiment140.zip
+testdata.manual.2009.06.14.csv
+training.1600000.processed.noemoticon.csv
+case_study*
+MONAI_DATA_DIRECTORY/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
