@@ -13,6 +13,13 @@ However, data loading is merely the first step: `preprocessing`|`batching`|`samp
 This tutorial explores the internals of `torch.utils.data`, and describes patterns and best practices for elegant data solutions
 in Machine and Deep learning with PyTorch.
 
+
+## Get started
+
+
+If you want to start digging into examples and patterns, there is a [Cover](Cover.ipynb) notebook to get you started.
+
+
 ### Outline
 
 1. Part 1 (Prelude)
@@ -64,6 +71,36 @@ _Off-the-shelf_ and/or _custom_ heterogeneuous datasets will be used to comply w
 
 Basic concepts of Machine/Deep learning Data processing are required to attend this tutorial. Similarly, proficiency with the Python language and
 the Python Object Model is also required. Basic knowledge of the PyTorch main features is preferable.
+
+#### Setting up the Python Environment
+
+It is possible to create the Python virtual environment to run all the notebooks in this repository either using `conda` (for Anaconda Python distribution) or `pyenv` and `pip`.
+
+To setup the Anaconda environment:
+```bash
+$ conda env create -f torch_beautiful_data.yml
+```
+This will create a new virtual environment called `torch-beautiful-data`. 
+
+```bash
+$ conda activate torch-beautiful-data
+```
+to activate the environment.
+
+At this stage, you're all set and you should be ready to start playing with the notebook.
+So, run a jupyter notebook server on your local computer, by running the following command in your Terminal:
+
+```bash
+$ jupyter notebook
+```
+
+Have fun! 🎉
+
+**Note**: Alternatively, if you would prefer installing the required packages using `pip`, it is very simple. Just run the following command:
+
+```bash
+$ pip install -r requirements.txt
+```
 
 #### Acknowledgments
 
