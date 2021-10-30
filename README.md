@@ -2,7 +2,7 @@
 
 ## Patterns & Best Practice for effective Data solutions with PyTorch
 
-![pydata-logo](https://global.pydata.org/assets/images/pydata.png)
+![pydata-logo](https://pydata.org/global2021/wp-content/uploads/2021/06/logo.png)
 This tutorial will be presented at [PyData Global 2020](https://global.pydata.org/) conference
 
 ## Abstract
